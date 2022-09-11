@@ -1,0 +1,7 @@
+{
+    "token": "Enter bot token",
+    "user_id": "Enter user_id",
+    "username": "Enter targets username (caps necessary)",
+    "bot_id": "Enter bots id",
+    "prefix": "Enter Prefix"
+}
